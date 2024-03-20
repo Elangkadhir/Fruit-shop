@@ -50,7 +50,9 @@ const Items = () => {
           id: 11,
           image: '11',
           name: 'Book 11',
-          price: 300
+          price: 300,
+          test:"test"
+        
         },
         {
           id: 12,
